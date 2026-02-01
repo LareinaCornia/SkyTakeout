@@ -1,6 +1,6 @@
-# SkyTakeout: A Comprehensive Food Delivery Management System
+# Delivera
 
-SkyTakeout is a full-featured food delivery management system developed using Java, Spring Boot, and MyBatis. It provides a clean, modular architecture for managing employees, dishes, categories, orders, and users. Designed for both administrators and end-users, it supports responsive web interactions and RESTful API integration.
+Delivera is a full-featured food delivery management system developed using Java, Spring Boot, and MyBatis. It provides a clean, modular architecture for managing employees, dishes, categories, orders, and users. Designed for both administrators and end-users, it supports responsive web interactions and RESTful API integration.
 
 ## 🚀 Key Features
 
@@ -47,33 +47,4 @@ SkyTakeout is a full-featured food delivery management system developed using Ja
 
 4. Access the application
     open your browser and go to ```http://localhost:8080``` to access the application
-
-## 📚 Project Structure
-```bash
-SkyTakeout/
-├── nginx-1.20.2
-│   ├── conf
-│   ├── contrib
-│   ├── docs
-│   ├── html
-│   └── logs
-├── skyTakeout
-│    ├── pom.xml
-│    ├── sky-common
-│    ├── sky-pojo
-│    └── sky-server
-└── README
-```
-    
-
-## 🤝 Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
